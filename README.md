@@ -1,2 +1,2 @@
 # Zplan.github.io
-Wellcome to my first bolg.
+Welcome to my first blog
